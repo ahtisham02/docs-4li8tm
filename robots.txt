@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ft8j8o.bowersai.com/sitemap.xml
